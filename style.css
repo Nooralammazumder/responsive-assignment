@@ -37,7 +37,7 @@ body {
 .nav-item-cont a {
   text-decoration: none;
 }
-.nav-item-cont > .follow-us {
+.nav-item-cont  .follow-us {
   align-items: center;
 }
 .follow-us {
@@ -164,10 +164,6 @@ body {
 .play-text3 {
   width: 250px;
 }
-/* .play-text2 > p{
-    height: 50px;
-    width: 250px;
-} */
 .play-img {
   width: 50%;
 }
