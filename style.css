@@ -245,8 +245,6 @@ footer {
 .footer-icons {
   display: flex;
   justify-content: space-evenly;
-  /* justify-content: space-around; */
-  /* align-items: center; */
 }
 .footer-icons img {
   width: 30px;
